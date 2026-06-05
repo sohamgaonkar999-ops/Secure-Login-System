@@ -78,7 +78,7 @@ secure-login-system/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/surajrai1390p-hue/Secure-login-system.git
+git clone https://github.com/sohamgaonkar999-ops/Secure-Login-System.git
 ```
 
 ---
@@ -187,7 +187,7 @@ http://127.0.0.1:5000
 # 🧪 Example Strong Password
 
 ```plaintext
-Suraj@123
+Soham@123
 ```
 
 ---
@@ -263,12 +263,11 @@ This project helps understand:
 
 # 👨‍💻 Author
 
-## Suraj Rai
+## SOHAM GAONKAR
 
 GitHub Repository:
 
-https://github.com/surajrai1390p-hue/Secure-login-system
-
+https://github.com/sohamgaonkar999-ops/Secure-Login-System
 ---
 
 # ⭐ Support
